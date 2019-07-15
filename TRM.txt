@@ -1,0 +1,72 @@
+TRM
+
+1 - Page 118
+Unit: Form-Based Processes
+Topic: Define Form
+
+2 - Page 122
+Unit: Form-Based Processes
+Topic: Maintain Form Layout with Adobe LiveCycle Designer
+
+3 - Page 126
+Unit: Form-Based Processes
+Topic: Maintain Form Layout using Web Dynpro
+
+4 - Page 130
+Unit: Form-Based Processes
+Topic: Define Form Type and Form Bundle Type
+
+5 - Page 172
+Unit: Registering Taxpayers
+Topic: Registration via Form Process
+
+6 - Page 284
+Unit: Processing Tax Submissions
+Topic: Upload of a Tax Return
+
+7 - Page 294
+Unit: Processing Tax Submissions
+Topic: Create a tax submission manually
+
+8 - Page 298
+Unit: Processing Tax Submissions
+Topic: Business Rules Framework plus
+
+9 - Page 328
+Unit: Processing Tax Submissions
+Topic: Form Bundle Type Customizing
+
+10 - Page 332
+Unit: Processing Tax Submissions
+Optional Topic: Task/Workflow Customizing
+Overview
+
+11 - Page 338
+Unit: Processing Tax Submissions
+Topic: Bill of a Tax Return
+
+12 - Page 340
+Unit: Processing Tax Submissions
+Topic: Tax Officer Work Center
+
+13 - Page 337
+Unit: Amending Tax Submissions
+Topic: Merge duplicate tax submissions during the
+mass activity for forms processing
+
+14 - Page 389
+Unit: Amending Tax Submissions
+Topic: Straight to Zero
+
+15 - Page 118
+Unit: Unit: Object-Based Tax
+Topic: Billing of Object-Based Taxes
+
+16 - Page 650
+Unit: Invoicing
+Topic: Invoicing Process
+
+17 - Page 652
+Unit: Invoicing
+Topic: Executing the Invoicing process for Object-
+Based Tax
